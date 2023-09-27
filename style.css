@@ -30,3 +30,31 @@ header{
     border-bottom: solid 3px;
     border-color: #ff7044;
 }
+
+.ativo{
+    border-bottom: solid 3px;
+    border-color: #ff7044;
+}
+
+.conteudo{
+    position: relative;
+    top: 70px;
+}
+
+.sideimg{
+    width: 370px;
+    border-radius: 6px;
+    border-bottom: solid 5px;
+    border-color: #ff7044;
+}
+
+figcaption{
+    color: #fff;
+    background: #ff7044;
+    width: fit-content;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px black;
+}
