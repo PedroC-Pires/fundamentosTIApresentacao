@@ -42,7 +42,6 @@ header{
 }
 
 .sideimg{
-    width: 370px;
     border-radius: 6px;
     border-bottom: solid 5px;
     border-color: #ff7044;
@@ -57,4 +56,12 @@ figcaption{
     padding-right: 15px;
     border-radius: 0px 0px 10px 10px;
     box-shadow: 0px 0px 10px black;
+}
+
+.imgsm{
+    width: 250px;
+}
+
+.imgbg{
+    width: 370px;
 }
